@@ -1,0 +1,26 @@
+{
+  "name": "swag-shop-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "mongoose": "^4.9.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moshikoko/swag-shop-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/moshikoko/swag-shop-api/issues"
+  },
+  "homepage": "https://github.com/moshikoko/swag-shop-api#readme",
+  "description": ""
+}
